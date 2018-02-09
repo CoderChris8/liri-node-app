@@ -1,0 +1,28 @@
+{
+  "name": "twitter-liri-node-app",
+  "version": "1.0.0",
+  "description": "twitter-liri-node-app",
+  "main": "liri.js",
+  "scripts": {
+    "start": "node liri.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderChris8/liri-node-app.git"
+  },
+  "keywords": [
+    "twitter",
+    "liri"
+  ],
+  "author": "Chris Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderChris8/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/CoderChris8/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
